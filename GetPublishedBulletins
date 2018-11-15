@@ -1,0 +1,101 @@
+{
+StatusCode: 200,
+Bulletins: [
+{
+Id: 5490,
+Category: "Urgent",
+Subject: "vish urgent test",
+StartDate: "Nov. 15, 2018",
+EndDate: "Nov. 15, 2020",
+CreatedBy: "Nayak, Vishwanath",
+LastUpdatedByOrPublishedBy: "Nayak, Vishwanath"
+},
+{
+Id: 5323,
+Category: "General",
+Subject: "wersdfsdf dsf sd fsdfsd fsdf sd fsd ",
+StartDate: "Nov. 15, 2018",
+EndDate: "Nov. 07, 2020",
+CreatedBy: "Singh, Satnam",
+LastUpdatedByOrPublishedBy: "Nayak, Vishwanath"
+},
+{
+Id: 5427,
+Category: "General",
+Subject: "EmailLogTemplate",
+StartDate: "Nov. 14, 2018",
+EndDate: "Nov. 26, 2018",
+CreatedBy: "Mahajan, Neha",
+LastUpdatedByOrPublishedBy: null
+},
+{
+Id: 5426,
+Category: "General",
+Subject: "Test OPTOUT status",
+StartDate: "Nov. 14, 2018",
+EndDate: null,
+CreatedBy: "Mahajan, Neha",
+LastUpdatedByOrPublishedBy: null
+},
+{
+Id: 5347,
+Category: "Urgent",
+Subject: "New Bulletin Test",
+StartDate: "Nov. 13, 2018",
+EndDate: "Nov. 02, 2020",
+CreatedBy: "Lalwani, Bharat",
+LastUpdatedByOrPublishedBy: "Lalwani, Bharat"
+},
+{
+Id: 5423,
+Category: "Urgent",
+Subject: "General Information",
+StartDate: "Nov. 13, 2018",
+EndDate: "Nov. 14, 2018",
+CreatedBy: "Pareek, Mohit",
+LastUpdatedByOrPublishedBy: null
+},
+{
+Id: 5424,
+Category: "Urgent",
+Subject: "General Information",
+StartDate: "Nov. 13, 2018",
+EndDate: "Nov. 14, 2018",
+CreatedBy: "Pareek, Mohit",
+LastUpdatedByOrPublishedBy: null
+},
+{
+Id: 5366,
+Category: "Urgent",
+Subject: "test",
+StartDate: "Nov. 05, 2018",
+EndDate: null,
+CreatedBy: "Singh, Satnam",
+LastUpdatedByOrPublishedBy: null
+},
+{
+Id: 5345,
+Category: "Urgent",
+Subject: "test",
+StartDate: "Nov. 02, 2018",
+EndDate: null,
+CreatedBy: "Singh, Satnam",
+LastUpdatedByOrPublishedBy: null
+},
+{
+Id: 5346,
+Category: "Urgent",
+Subject: "test",
+StartDate: "Nov. 02, 2018",
+EndDate: null,
+CreatedBy: "Singh, Satnam",
+LastUpdatedByOrPublishedBy: null
+}
+],
+Message: "Success",
+TotalItems: 15,
+HasNext: true,
+HasPrevious: false,
+CurrentPage: 0,
+PageSize: 10
+}
